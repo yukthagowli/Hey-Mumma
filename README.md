@@ -10,8 +10,8 @@ Follow these steps to run the Streamlit code locally:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/medpredict.git
-cd medpredict
+git clone https://github.com/your-username/Hey-Mumma.git
+cd Hey-Mumma
 ```
 ### Install Dependencies
  ```bash
